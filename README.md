@@ -1,7 +1,5 @@
 # Text Editor
 
-    Write the title of the Assignment
-
 
 ## Completion Instructions
 
